@@ -1,5 +1,5 @@
 {
-  "name": "js-common",
+  "name": "yfjs",
   "version": "1.0.0",
   "description": "js utility libraries shared among other js projects",
   "scripts": {
